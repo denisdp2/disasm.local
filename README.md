@@ -8,6 +8,9 @@ Nothing is sent anywhere.
 Powered by **Keystone** (assembler) and **Capstone** (disassembler), compiled to
 WebAssembly.
 
+<img width="1065" height="885" alt="image" src="https://github.com/user-attachments/assets/1513e24e-ef47-48a3-b77c-2eac34a1301b" />
+
+
 ## Run it
 
 WebAssembly can't load from a `file://` page, so serve the folder over HTTP.
